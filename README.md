@@ -1,5 +1,8 @@
 # Front-End Productivity Tools 👩🏻‍💻✨ - Extension Pack for Visual Studio Code
 
+[![Visual Studio Code Marketplace](https://vsmarketplacebadge.apphb.com/version-short/keitoliveira.front-end-productivity-tools.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=keitoliveira.front-end-productivity-tools) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/keitoliveira.front-end-productivity-tools.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=keitoliveira.front-end-productivity-tools) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/keitoliveira.front-end-productivity-tools.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=keitoliveira.front-end-productivity-tools) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/keitoliveira.front-end-productivity-tools.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=keitoliveira.front-end-productivity-tools)
+
+
 This extension pack for Visual Studio Code contains extensions that will help you to focus where does it really matter, creating software and not do manual and boring job like as to guess a path of file or deciphering test snapshots.
 
 ## Included
