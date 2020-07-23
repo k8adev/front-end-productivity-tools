@@ -3,6 +3,14 @@
     "displayName": "Front-End Productivity Tools",
     "description": "A collection of productivity tools for Front-End development",
     "version": "0.0.1",
+    "publisher": "keitoliveira",
+    "author": {
+        "name": "Keit Oliveira"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/keitoliveira/front-end-productivity-tools.git"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
